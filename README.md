@@ -38,4 +38,4 @@
 
 
 ### Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dosoovin@gmail.com)](mailto:dosoovin@gmail.com) [![Github Badge](https://img.shields.io/badge/-svdoit-grey?style=flat&logo=github&logoColor=white&link=https://github.com/svdoit/)](https://www.github.com/svdoit/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soovin-do/)](https://www.linkedin.com/in/soovin-do/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:codesoup21@gmail.com)](mailto:codesoup21@gmail.com) [![Github Badge](https://img.shields.io/badge/-svdoit-grey?style=flat&logo=github&logoColor=white&link=https://github.com/svdoit/)](https://www.github.com/svdoit/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soovin-do/)](https://www.linkedin.com/in/soovin-do/)
