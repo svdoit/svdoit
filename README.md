@@ -4,11 +4,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">&nbsp; About me
 
 
-<!-- ✔️ &nbsp; Sungshin W. Univ.🎓
-<br>Convergence Security Engineering & Computer Engineering
-
-✔️ &nbsp; Current Interest <br> Web, Server</p>
- -->
 <details>
     <summary style="font-size:2em"><strong>🛠 &nbsp;Technical Skills </strong></summary>
     <ul style="list-style:none">
